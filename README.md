@@ -22,6 +22,8 @@ A program that we create in Scratch. The cat must move a cross the maze
 	قطعه کد: برای همیشه
  	قطعه کد:اگر انگاه
 بلوک حس کردن:
-قطعه کد:فشرده
-قطعه کد:لمس کردن
+	قطعه کد:فشرده
+ 	قطعه کد:لمس کردن
+
+
 
